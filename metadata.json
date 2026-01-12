@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MindMap",
+  "description": "Organize sua mente, maximize seu aprendizado. Um planner de estudos inteligente com IA para organizar e otimizar sua jornada de conhecimento.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
